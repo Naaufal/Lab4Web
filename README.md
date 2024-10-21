@@ -17,3 +17,7 @@ Membuat box
 
 # Membuat Layout sederhana
 
+![image](https://github.com/user-attachments/assets/da83d116-1400-431c-a921-8563a5116d6b)
+
+![image](https://github.com/user-attachments/assets/acaa62ea-0d03-4b44-8090-be43e96d770d)
+
